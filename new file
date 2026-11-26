@@ -1,0 +1,65 @@
+{
+  "owner": "LittleFox-cold",
+  "theme": "mac",
+  "language": "zh",
+  "profile": {
+    "cover": null,
+    "cardUrl": null,
+    "contrib": {
+      "visible": true
+    },
+    "repos": {
+      "visible": true,
+      "showCount": 6
+    },
+    "gists": {
+      "visible": true,
+      "showCount": 6
+    }
+  },
+  "gists": {
+    "prefix": "classy",
+    "split": ".",
+    "default": null,
+    "type": [
+      {
+        "name": "blog"
+      },
+      {
+        "name": "code"
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "GitHub",
+      "href": "https://github.com/LittleFox-cold"
+    }
+  ],
+  "nav": {
+    "extra": []
+  },
+  "now": {
+    "books": [
+      "西游记"
+    ],
+    "music": [
+      "NO."
+    ],
+    "watching": [
+      "NO."
+    ]
+  },
+  "guestbook": {
+    "gistId": "暂无。。。"
+  },
+  "webring": {
+    "enabled": true
+  },
+  "discover": {
+    "enabled": true
+  },
+  "seo": {
+    "index": true
+  }
+}
